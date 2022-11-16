@@ -4,6 +4,8 @@ I live in Minsk, Belarus :belarus:
   
 I am currently studying Python programming :sunglasses:
 
+Later you can see here my achievements and results of activity :love_you_gesture:
+
 You can find me on:
 - GitHub as @AIkonnikova (you are here)
 - LinkedIn
